@@ -7,3 +7,31 @@
     color: #fff;
 }
 
+.nav-bar{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px,20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-bar a{
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+.nav-bar a:hover{
+    text-decoration: underline;
+}
+
+.banner-heading{
+    text-align: center;
+    padding-top: 200px;
+    font-size: 36px;
+    font-weight: bold;
+}
