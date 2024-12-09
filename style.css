@@ -1,0 +1,9 @@
+.banner{
+    position: relative;
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20240911/pngtree-macro-image-of-wildflowers-in-sunset-meadow-image_16161266.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: #fff;
+}
+
